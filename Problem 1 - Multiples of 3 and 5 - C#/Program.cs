@@ -14,7 +14,6 @@ namespace Problem_1___Multiples_of_3_and_5
                 if(i%3==0 || i%5==0)
                 {
                     sumOfMultiples += i;
-                    Console.WriteLine("New Multiple: " +  i);
                 }
             }
 
