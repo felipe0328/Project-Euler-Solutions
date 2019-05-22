@@ -1,0 +1,11 @@
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\bin\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.deps.json
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\bin\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.runtimeconfig.json
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\bin\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.runtimeconfig.dev.json
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\bin\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.dll
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\bin\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.pdb
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\obj\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.csprojAssemblyReference.cache
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\obj\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\obj\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.AssemblyInfoInputs.cache
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\obj\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.AssemblyInfo.cs
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\obj\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.dll
+D:\Personal Projects\Project-Euler-Solutions\Problem 1 - Multiples of 3 and 5\obj\Debug\netcoreapp2.2\Problem 1 - Multiples of 3 and 5.pdb
